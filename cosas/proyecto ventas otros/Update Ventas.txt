@@ -1,0 +1,16 @@
+UPDATE `sales_header` SET `date_sales` = '2023-01-12 18:54:10' WHERE `sales_header`.`id_ticket` = 47;
+UPDATE `sales_header` SET `date_sales` = '2023-01-12 18:54:10' WHERE `sales_header`.`id_ticket` = 48;
+UPDATE `sales_header` SET `date_sales` = '2023-01-12 18:54:10' WHERE `sales_header`.`id_ticket` = 49;
+UPDATE `sales_header` SET `date_sales` = '2023-01-12 18:54:10' WHERE `sales_header`.`id_ticket` = 50;
+UPDATE `sales_header` SET `date_sales` = '2023-01-12 18:54:10' WHERE `sales_header`.`id_ticket` = 51;
+
+
+UPDATE `sales_details` SET `date_sales` = '2023-01-04 21:00:34' WHERE `sales_details`.`id` = 521;
+UPDATE `sales_details` SET `date_sales` = '2023-01-06 21:00:34' WHERE `sales_details`.`id` = 522;
+UPDATE `sales_details` SET `date_sales` = '2023-01-25 21:00:34' WHERE `sales_details`.`id` = 523;
+UPDATE `sales_details` SET `date_sales` = '2023-01-29 21:00:34' WHERE `sales_details`.`id` = 524;
+UPDATE `sales_details` SET `date_sales` = '2023-01-20 21:00:34' WHERE `sales_details`.`id` = 525;
+UPDATE `sales_details` SET `date_sales` = '2023-01-15 21:00:34' WHERE `sales_details`.`id` = 526;
+UPDATE `sales_details` SET `date_sales` = '2023-01-08 21:00:34' WHERE `sales_details`.`id` = 527;
+UPDATE `sales_details` SET `date_sales` = '2023-01-09 21:00:34' WHERE `sales_details`.`id` = 528;
+UPDATE `sales_details` SET `date_sales` = '2023-01-04 21:00:34' WHERE `sales_details`.`id` = 529;
