@@ -1,0 +1,5 @@
+composer require phpoffice/phpword
+
+composer require phpoffice/phpspreadsheet
+
+composer require phpmailer/phpmailer
