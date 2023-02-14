@@ -1,0 +1,2 @@
+https://github.com/PHPMailer/PHPMailer
+https://github.com/PHPOffice/PhpSpreadsheet
